@@ -1,0 +1,10 @@
+app:
+  port: 8000
+
+db:
+  driver: "postgres"
+  host: "test1.cf6b2njhruun.us-east-1.rds.amazonaws.com"
+  port: 5432
+  username: "postgres"
+  password: "postgres"
+  database: "postgres"
